@@ -1,5 +1,5 @@
 # MetaToScoreboard Plugin
-MetaToScoreboard は、オンラインプレイヤーのメタデータを取得し、スコアボードのスコアとして設定するspigotプラグイン
+オンラインプレイヤーのメタデータを取得し、スコアボードのスコアとして設定するspigotプラグイン
 ```yaml
 /metatoscoreboard <objective> <metadatakey>
 ```
