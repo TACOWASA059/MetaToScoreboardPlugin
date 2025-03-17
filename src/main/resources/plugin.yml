@@ -1,0 +1,14 @@
+name: MetaToScoreboard
+version: '${project.version}'
+main: com.github.tacowasa059.metatoscoreboard.MetaToScoreboard
+api-version: '1.16'
+author: tacowasa059
+commands:
+  metatoscoreboard:
+    description: プレイヤーのメタデータをスコアボードに設定
+    usage: /metatoscoreboard <objective> <metadatakey>
+    permission: metatoscoreboard.use
+permissions:
+  metatoscoreboard.use:
+    description: メタデータをスコアボードに設定できる
+    default: op
