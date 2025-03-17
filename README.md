@@ -18,3 +18,6 @@
 | Number (int, double, float, etc.)	 | int に変換             |
 | Stringなどのその他のデータ                   | 	1                  |
 | メタデータなし                            | -1                  |
+
+## 実行環境
+- paper 1.16.5
